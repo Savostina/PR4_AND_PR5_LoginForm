@@ -1,0 +1,15 @@
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\SuperMarket.exe.config
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\SuperMarket.exe
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\SuperMarket.pdb
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\EntityFramework.dll
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\EntityFramework.xml
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\bin\Release\ru\EntityFramework.resources.dll
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.csprojAssemblyReference.cache
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.FormLogin.resources
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.Properties.Resources.resources
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.csproj.GenerateResource.cache
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.csproj.CopyComplete
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.exe
+C:\Users\Студент 1С\Desktop\SuperMarket\SuperMarket\obj\Release\SuperMarket.pdb
